@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi, I'm Johnny 👋. 
 
-<!--
-**JohnnyJem/JohnnyJem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mobile Software Engineer, dancer, and aspiring public speaker. California, Los Angeles born and currently located in Santa Barbara. So far, in my career, I've worked at a startup as a Mobile Software Engineer with a focus on Android development and am now open to new opportunities.
 
-Here are some ideas to get you started:
+  - I'm currently learning Kotlin Multiplatform along with Compose and SwiftUI. 
+  - Ask me about Android development, Kotlin, and what future tech I'm most excited about.
+  - Pronouns: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Quick facts:
+   - Professional - Software Engineer: Mobile / IoT / AR / VR, Previously @TrackR @Adero
+   - B.S. - Biological Sciences, UC Santa Barbara Alum
+   - Heritage - First generation Salvadoran🇸🇻 American🇺🇸,  Bilingual: Spanish & English, Raised: North Hollywood, Living: Santa Barbara
+    
+Mission Statement:
+  - Shine on, fight for others, bring new perspectives to the table. Make tech accessible to all.
+    
+What I Care About:
+  - Working on tools that enhance interactions with the environment around us.
+  - Connections between individuals and groups and how those connections are maintained. 
+  - A more just society.
+  - Saving the environment for future generations to enjoy.
+  - Keeping a healthy lifestyle. 
+    
+Guiding Principles:
+  - Start where you are.
+  - Time flies by when you're climbing to the top of the mountain and enjoying the sunshine. Be optimistic, educated, and friendly. Dedication and confidence are key. Break down problems to make them actionable.
+  - I like learning, discussing, and diving into challenges.
+    
+How you can reach me:
+  - LinkedIn: https://www.linkedin.com/in/johnny-molina-7bb1ab62/
+  - Twitter: https://twitter.com/JohnnyEJem
