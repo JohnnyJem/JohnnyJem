@@ -23,7 +23,7 @@ What I Care About:
     
 Guiding Principles:
   - Start where you are.
-  - Time flies by when you're climbing to the top of the mountain and enjoying the sunshine. Be optimistic, educated, and friendly. Dedication and confidence are key. Break down problems to make them actionable.
+  - Time flies by when you're climbing to the top of the mountain and enjoying the sunshine. Be optimistic, educated, and friendly. Dedication, communication, and confidence are key. Break down problems to make them actionable.
   - I like learning, discussing, and diving into challenges.
     
 How you can reach me:
