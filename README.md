@@ -1,4 +1,4 @@
-### Hi, I'm Johnny 👋. 
+a### Hi, I'm Johnny 👋. 
 
 I'm a Mobile Software Engineer, dancer, and aspiring public speaker. California, Los Angeles born and currently located in Santa Barbara. So far, in my career, I've worked at a startup as a Mobile Software Engineer with a focus on Android development and am now open to new opportunities.
 
@@ -7,7 +7,7 @@ I'm a Mobile Software Engineer, dancer, and aspiring public speaker. California,
   - Pronouns: he/him
 
 Quick facts:
-   - Professional - Software Engineer: Mobile / IoT / AR / VR, Previously @TrackR @Adero
+   - Professional - Software Engineer: Mobile / IoT / AR / VR, Previously @TrackR @Adero, Currently @Zoom.us
    - B.S. - Biological Sciences, UC Santa Barbara Alum
    - Heritage - First generation Salvadoran🇸🇻 American🇺🇸,  Bilingual: Spanish & English, Raised: North Hollywood, Living: Santa Barbara
     
