@@ -9,7 +9,7 @@ I'm a Mobile Software Engineer, dancer, and aspiring public speaker. California,
 Quick facts:
    - Professional - Software Engineer: Mobile / IoT / AR / VR, Previously @TrackR @Adero, Currently @Zoom.us
    - B.S. - Biological Sciences, UC Santa Barbara Alum
-   - Heritage - First generation Salvadoran🇸🇻 American🇺🇸,  Bilingual: Spanish & English, Raised: North Hollywood, Living: Santa Barbara
+   - Heritage - First generation Salvadoran🇸🇻 American🇺🇸,  Bilingual: Spanish & English, Raised: North Hollywood, Living: Santa Barbara and San Francisco
     
 Mission Statement:
   - Shine on, fight for others, bring new perspectives to the table. Make tech accessible to all.
