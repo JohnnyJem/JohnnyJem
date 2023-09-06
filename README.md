@@ -1,4 +1,4 @@
-a### Hi, I'm Johnny 👋. 
+### Hi, I'm Johnny 👋. 
 
 I'm a Mobile Software Engineer, dancer, and aspiring public speaker. California, Los Angeles born and currently located in Santa Barbara. So far, in my career, I've worked at a startup and at Zoom as a Mobile Software Engineer with a focus on Android development.
 
