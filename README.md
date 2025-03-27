@@ -1,18 +1,11 @@
 ### Hi, I'm Johnny 👋. 
 
-I'm a Mobile Software Engineer, dancer, and aspiring public speaker. California, Los Angeles born and currently located in Santa Barbara. So far, in my career, I've worked at a startup and at Zoom as a Mobile Software Engineer with a focus on Android development.
-
-  - I'm currently learning Kotlin Multiplatform along with Compose and SwiftUI. 
-  - Ask me about Android development, Kotlin, and what future tech I'm most excited about.
-  - Pronouns: he/him
+I'm a Mobile Software Engineer. California, Los Angeles born and currently located in San Francisco. So far, in my career, I've worked at a startup and at Zoom as a Mobile Software Engineer with a focus on Android development.
 
 Quick facts:
    - Professional - Software Engineer: Mobile / IoT / AR / VR, Previously @TrackR @Adero, Currently @Zoom.us
    - B.S. - Biological Sciences, UC Santa Barbara Alum
    - Heritage - First generation Salvadoran🇸🇻 American🇺🇸,  Bilingual: Spanish & English, Raised: North Hollywood, Living: Santa Barbara and San Francisco
-    
-Mission Statement:
-  - Shine on, fight for others, bring new perspectives to the table. Make tech accessible to all.
     
 What I Care About:
   - Working on tools that enhance interactions with the environment around us.
